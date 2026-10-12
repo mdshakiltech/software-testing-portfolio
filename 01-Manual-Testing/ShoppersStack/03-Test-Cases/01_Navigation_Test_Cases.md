@@ -47,7 +47,7 @@
 - The website is accessible.
 - The browser is working correctly.
 
-**Test Data:** ShoppersStack website URL.
+**Test Data:** https://www.ShoppersStack.com.
 
 **Test Steps:**
 1. Open Google Chrome.
@@ -82,7 +82,7 @@
 - The website is accessible.
 - The browser is working correctly.
 
-**Test Data:** ShoppersStack website URL.
+**Test Data:** https://www.ShoppersStack.com.
 
 **Test Steps:**
 1. Open Google Chrome.
@@ -117,7 +117,7 @@
 - The website is accessible.
 - The browser is working correctly.
 
-**Test Data:** ShoppersStack website URL.
+**Test Data:** https://www.ShoppersStack.com.
 
 **Test Steps:**
 1. Open Google Chrome.
