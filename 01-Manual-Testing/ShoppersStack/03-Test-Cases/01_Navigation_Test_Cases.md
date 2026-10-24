@@ -1,4 +1,4 @@
-**TC_NAV_01:** Verify Home page Navigation.
+## TC_NAV_01: Verify Home page Navigation.
   
  **Module:** Navigation
  
